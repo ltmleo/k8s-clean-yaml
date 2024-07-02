@@ -29,6 +29,7 @@ FIELDS_TO_RM = {
     },
     "spec": {
         "clusterIP": " ",
+        "clusterIPs": " ",
         "finalizers": " "
     },
     "status": " "
