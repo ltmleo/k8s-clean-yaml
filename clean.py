@@ -28,7 +28,7 @@ FIELDS_TO_RM = {
         "managedFields": " "
     },
     "spec": {
-        "clusterIP:": " ",
+        "clusterIP": " ",
         "finalizers": " "
     },
     "status": " "
