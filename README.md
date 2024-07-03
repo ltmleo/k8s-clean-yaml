@@ -31,7 +31,8 @@ By default this fields are being removed:
     "managedFields": " "
 },
 "spec": {
-    "clusterIP:": " ",
+    "clusterIP": " ",
+    "clusterIPs": " ",
     "finalizers": " "
 },
 "status": " "
